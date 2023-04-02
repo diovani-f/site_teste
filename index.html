@@ -174,6 +174,8 @@
                                 <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
                             </div>
                             
+                            <input type="hidden" name="_next" value="">
+                            
                             <input type="hidden" name="_captcha" value="false">
                             <!-- Submit error message-->
                             <!---->
@@ -182,6 +184,12 @@
                             <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div>
                             <!-- Submit Button-->
                             <button class="btn btn-primary btn-xl" type="submit" id="submitButton">Send</button>
+                            
+                            <div class="d-none" id="submitSuccessMessage">
+                                <div class="text-center mb-3">
+                                    <div class="fw-bolder">Form submission successful!</div>
+                                </div>
+                            </div>
                          
                         </form>
                     </div>
