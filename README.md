@@ -12,7 +12,7 @@ Andrea Schwertner Charão
 - HTML
 - CSS
 - Template com Bootstrap
-- FormSubmit (Terminal para furmulário)
+- FormSubmit (Terminal para formulário)
 
 #### Ambiente de desenvolvimento
 
@@ -25,9 +25,9 @@ Andrea Schwertner Charão
 
 #### Bastidores
 
-De inicio fiquei um pouco assustado com o projeto pois não conheço muito pouco sobre programação web. Mas com o auxilio da professora,
+De início fiquei um pouco assustado com o projeto pois conheço pouco sobre programação web. Mas com o auxílio da professora,
 e com a escolha do template pronto facilitou muito o trabalho. Com isso conseguir ir alterando a página, e alguns recursos que não conhecia
-procurava tutoriais e videos no youtube, para aprender e intender o que e que estava fazendo. Mas acredito que seguindo o template consegui deixar 
+procurava tutoriais e vídeos no youtube, para aprender e entender o que estava fazendo. Mas acredito que seguindo o template consegui deixar 
 o site todo funcional.
 
 
